@@ -1,16 +1,14 @@
-## Hi there 👋
+# Bem vindo ao meu perfil 👋
 
-<!--
-**jvmarques2b/jvmarques2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou João Vitor Marques
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Atualmente estou trabalhando como atendente de farmácia;
+- 🌱 Estou aprendendo Linguagem de Programação nas aula de Tecnologia;
+- 📫 Entrar em contato pelo emai
+ - joaovitormarques878@gmail.com
+  -  @j_vitor_mqs
+- 😄 Meu apelido: charlene
+- ⚡ Curiosidade sobre mim: gosto de jogos eletrônicos.
+
